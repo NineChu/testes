@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(60, 120, 180);
+    border: 15px solid black;
+    margin: 10px;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+hr {
+    border-color: black;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+h3 {
+    font-size: 40px;
+    text-align: center;
+}
+#secreto {
+    color: rgb(60, 120, 180);
+    font-size: 20px;
+}
+a.a:link, a.a:visited {
+    background-color: tomato;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    margin: 2px;
+}
+a.a:hover, a.a:active {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    margin: 2px;
+}
+a.b:link, a.b:visited {
+    background-color: blueviolet;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    margin: 2px;
+}
+a.b:hover, a.b:active {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    margin: 2px;
+}
+a.c:link, a.c:visited {
+    color: blue;
+    text-decoration: none;
+}
+a.c:hover, a.c:active {
+    text-decoration: underline;
+}
