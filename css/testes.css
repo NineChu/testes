@@ -9,16 +9,7 @@ p {
     color: white;
     text-align: center;
 }
-p.embed {
-    text-align: center;
-    background-color: blueviolet;
-    color: white;
-    text-decoration: none;
-    padding: 10px 15px;
-    display: inline-block;
-    margin: 2px;
-    
-}
+
 hr {
     border-color: black;
 }
