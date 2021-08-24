@@ -9,9 +9,8 @@ p {
     color: white;
     text-align: center;
 }
-
 hr {
-    border-color: black;
+    border: 2px solid black;
 }
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -23,7 +22,7 @@ h3 {
     font-size: 40px;
     text-align: center;
 }
-#secreto {
+.secreto {
     color: rgb(60, 120, 180);
     font-size: 20px;
 }
