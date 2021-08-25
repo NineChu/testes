@@ -33,6 +33,7 @@ a.a:link, a.a:visited {
     padding: 10px 15px;
     display: inline-block;
     margin: 2px;
+    border-radius: 10px;
 }
 a.a:hover, a.a:active {
     background-color: red;
@@ -41,6 +42,7 @@ a.a:hover, a.a:active {
     padding: 10px 15px;
     display: inline-block;
     margin: 2px;
+    border-radius: 10px;
 }
 a.b:link, a.b:visited {
     background-color: blueviolet;
@@ -49,6 +51,7 @@ a.b:link, a.b:visited {
     padding: 10px 15px;
     display: inline-block;
     margin: 2px;
+    border-radius: 10px;
 }
 a.b:hover, a.b:active {
     background-color: blue;
@@ -57,6 +60,7 @@ a.b:hover, a.b:active {
     padding: 10px 15px;
     display: inline-block;
     margin: 2px;
+    border-radius: 10px;
 }
 a.c:link, a.c:visited {
     color: blue;
